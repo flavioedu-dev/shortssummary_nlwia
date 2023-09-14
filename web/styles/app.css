@@ -10,34 +10,6 @@
   margin-bottom: 4rem;
 }
 
-#app form {
-  display: flex;
-  margin-bottom: 4rem;
-}
-
-#app form input {
-  width: 32rem;
-  height: 3rem;
-  border: none;
-  padding: 1rem 12px;
-  background-color: var(--background-input);
-  font-size: 1rem;
-}
-
-#app form button {
-  width: 3rem;
-  height: 3rem;
-  margin-left: 12px;
-  background-color: var(--primary-color);
-  border: none;
-}
-
-#app form button img {
-  width: 24px;
-  height: 24px;
-  vertical-align: middle;
-}
-
 #app h2 {
   margin-bottom: 18px;
 }
