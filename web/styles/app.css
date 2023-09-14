@@ -5,12 +5,12 @@
   align-items: center;
 }
 
-#app h1 {
+#app > h1 {
   color: var(--primary-color);
   margin-bottom: 4rem;
 }
 
-#app h2 {
+#app > h2 {
   margin-bottom: 18px;
 }
 
@@ -19,5 +19,11 @@
 }
 
 #app p {
-  color: #7C7C8A;;
+  text-align: justify;
+  width: 32rem;
+}
+
+#app .placeholder {
+  color: #7C7C8A;
+  user-select: none;
 }
